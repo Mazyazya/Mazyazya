@@ -1,5 +1,5 @@
 ##  !!!ВОТ БЫ ЩАС ГИДРЫ ПОЮЗАТЬ!!!
-<img align="" alt="Coding" width="1000" src="https://github.com/user-attachments/assets/31d47cf2-f76f-446b-858f-3966605a8981">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=shadow_red&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazyazya&layout=compact&theme=shadow_red&bg_color=00000000)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mazyazya&repo=github-readme-stats&theme=shadow_red)
