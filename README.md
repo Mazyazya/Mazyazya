@@ -1,4 +1,4 @@
-##  !!!ВОТ БЫ ЩАС ГИДРЫ ПОЮЗАТЬ!!!
+##  !!!ВСЕМ ДЕТИШКАМ ГОРЕТЬ В ОГНЕ!!!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=shadow_red&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazyazya&layout=compact&theme=shadow_red&bg_color=00000000)
