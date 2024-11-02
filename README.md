@@ -1,5 +1,5 @@
    
-# !!!ВСЕМ ДЕТИШКАМ ГОРЕТЬ В ОГНЕ!!!
+<h1 align=center>!!!ВСЕМ ДЕТИШКАМ ГОРЕТЬ В ОГНЕ!!!</h1>
 <div id="header" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=shadow_red&show_icons=true)
