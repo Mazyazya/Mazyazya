@@ -1,16 +1,20 @@
-##  !!!ВСЕМ ДЕТИШКАМ ГОРЕТЬ В ОГНЕ!!!
+   
+# !!!ВСЕМ ДЕТИШКАМ ГОРЕТЬ В ОГНЕ!!!
+<div id="header" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=shadow_red&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazyazya&layout=compact&theme=shadow_red&bg_color=00000000)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mazyazya&repo=github-readme-stats&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazyazya&layout=compact&theme=shadow_red&bg_color=00000000) 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+[![codewars](https://www.codewars.com/users/Mazyazya/badges/large)](https://www.codewars.com/users/Mazyazya)
+
 <img align="center" alt="Coding" width="400" src="https://media1.tenor.com/m/yEABoAxayrAAAAAd/dante-dmc.gif">
 
-[![codewars](https://www.codewars.com/users/Mazyazya/badges/large)](https://www.codewars.com/users/Mazyazya)
+</div>
+
+
+
 <!--
 **Mazyazya/Mazyazya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
