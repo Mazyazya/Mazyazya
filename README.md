@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=dark&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazyazya&layout=compact&theme=dark" />
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23151515&borderColor=%23FFF&textColor=%23FFF&qColor=%23FFF&aColor=%23FFF)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23151515&borderColor=%23bababa&textColor=%23FFF&qColor=%23FFF&aColor=%23FFF)
 
 [![codewars](https://www.codewars.com/users/Mazyazya/badges/large)](https://www.codewars.com/users/Mazyazya)
 
