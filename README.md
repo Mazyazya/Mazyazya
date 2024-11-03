@@ -2,10 +2,10 @@
 <h1 align=center>!!!ВСЕМ ДЕТИШКАМ ГОРЕТЬ В ОГНЕ!!!</h1>
 <div id="header" align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=shadow_red&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazyazya&layout=compact&theme=shadow_red&bg_color=00000000) 
+<img src="https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazyazya&layout=compact&theme=dark" />
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23151515&borderColor=%23FFF&textColor=%23FFF&qColor=%23FFF&aColor=%23FFF)
 
 [![codewars](https://www.codewars.com/users/Mazyazya/badges/large)](https://www.codewars.com/users/Mazyazya)
 
