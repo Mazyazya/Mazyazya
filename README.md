@@ -1,5 +1,3 @@
-   
-<h1 align=center>!!!ВСЕМ ДЕТИШКАМ ГОРЕТЬ В ОГНЕ!!!</h1>
 <div id="header" align="center">
    <p align="center">
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazyazya&theme=dark&show_icons=true" />
